@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -1899,3 +1900,19 @@ This will only work for locales that have been explicitly imported before.
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# projet-portfolio
+OBSIDIAN
+exemple d'un portefolio pour artist(e), comedien(ne), manequin(ne), ect...
+
+React App
+
+Pour faire un projet avec create-react-app dans votre terminal.
+
+npm install -g create-react-app
+
+create-react-app <NOM-DE-MON-APP>
+cd <NOM-DE-MON-APP>/
+npm start
+Il faut ensuite changer les fichier dans app/src.
+>>>>>>> 94ea1d48e703073bb9020c8b7bab4617d5a1de7e
