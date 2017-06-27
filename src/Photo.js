@@ -93,6 +93,8 @@ class Photo extends React.Component {
 
                         </div>
                         <hr></hr>
+											
+
                         <ul>
                             <li>
                                 <a href="#">
@@ -127,7 +129,10 @@ class Photo extends React.Component {
 
 
                         </ul>
+												<h4 className="end">OBSIDIAN MUSIC THEME BY AUDIOTHEME.</h4>
+												<br></br>
                     </div>
+
                 </div>
 
             </div>
